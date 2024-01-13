@@ -1,7 +1,7 @@
-**Project Title: LocalChat - Simple C++ Chat Application**
+**Chit-Chat - Simple C++ Chat Application**
 
 **Description:**
-💬✨ Welcome to LocalChat, a minimalistic C++ chat application that enables people to exchange messages on the same computer! This project utilizes object-oriented programming (OOP) concepts, providing a structured approach to managing chat sessions. Users can engage in one-on-one conversations, and messages are stored with the sender's name and timestamp for future reference.
+💬✨ Welcome to Chit-Chat, a minimalistic C++ chat application that enables people to exchange messages on the same computer! This project utilizes object-oriented programming (OOP) concepts, providing a structured approach to managing chat sessions. Users can engage in one-on-one conversations, and messages are stored with the sender's name and timestamp for future reference.
 
 **Key Features:**
 - **Single PC Chat:** Engage in one-on-one conversations on the same computer.
@@ -16,17 +16,16 @@
 
 **How to Use:**
 1. Compile the C++ source code using your preferred compiler (`g++`, `clang++`, etc.).
-2. Run the executable (`chat_app.exe` or as per your naming convention).
-3. Enter your name when prompted to identify yourself.
-4. Take turns with others to send and receive messages.
-5. Messages are saved to a text file (`chat_log.txt` or as specified) for later review.
+2. Run the executable (`actual_final.cpp`).
+3. Take turns with others to send and receive messages.
+4. Messages are saved to a text file (`user1_user2.txt', here user1 is the user who sent a message first and user2 is the user whom that message is sent to) for later review.
 
-**Sample Code Snippet:**
+**Sample Snippet:**
+![Sample of how texts would be saved](./sample.png)
 
 **Project Structure:**
-- `chat_app.cpp`: The main C++ source code for the chat application.
-- `chat_log.txt`: Text file for storing messages, names, and timestamps.
-- (Include other relevant files or folders)
+- `actual_final.cpp`: The main C++ source code for the chat application.
+- `userm_usern.txt`: Text file for storing messages, names, and timestamps. userm is the user who first sent a message to usern and all the messages later on will be saved in this file itself.
 
 **Contributions:**
 Contributions and feedback are welcome! If you have ideas for enhancements or bug fixes, feel free to fork the repository, create branches, and submit pull requests.
