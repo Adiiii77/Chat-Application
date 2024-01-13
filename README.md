@@ -20,7 +20,7 @@
 3. Take turns with others to send and receive messages.
 4. Messages are saved to a text file (`user1_user2.txt', here user1 is the user who sent a message first and user2 is the user whom that message is sent to) for later review.
 
-**Sample Snippet:**
+**Sample Snippet:**<br>
 ![Sample of how texts would be saved](./sample.png)
 
 **Project Structure:**
